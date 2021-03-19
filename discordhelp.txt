@@ -1,0 +1,8 @@
+	Zira Role Select
+z/edit 807271522279489547 { **Добавьте реакцию под это сообщение, чтоб получить роль.**
+:minecraftBench:  **- для роли @Minecraft**
+:memeDog:  **- для роли @meme**
+:white_check_mark:  **- для роли @Member **
+:dotaLogo:  **- для роли @Dota 2 **
+:csgoLogo:  **- для роли @CS:GO **
+:animeDrink:  **- для роли @Anime ** }
